@@ -17,7 +17,7 @@ sidebar-avatar: /img/about-zsy.jpg      # use absolute URL, seeing it's used in 
 
 
 # SNS settings
-RSS: true
+RSS: false
 weibo_username: zsyshuyang
 zhihu_username: zsy-shuyang
 github_username: zsyshuyang
