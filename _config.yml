@@ -99,8 +99,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "BY Blog",
+        href: "http://http://qiubaiying.vip"
     },{
         title: "Apple",
         href: "https://apple.com"
