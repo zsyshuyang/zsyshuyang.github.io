@@ -13,9 +13,9 @@
 
 ## 致谢
 
-1. 这个模板是从这里 [qiubaiying](https://github.com/qiubaiying/qiubaiying.github.io) fork 的, 感谢qiubaiying。 
-1. 感谢最原始的模板制作者[Hux](https://github.com/Huxpro/huxpro.github.io) 。
-2. 感谢 Jekyll、Github Pages 和 Bootstrap!
+- 这个模板是从这里 [qiubaiying](https://github.com/qiubaiying/qiubaiying.github.io)fork 的, 感谢qiubaiying。 
+- 感谢最原始的模板制作者[Hux](https://github.com/Huxpro/huxpro.github.io)。
+- 感谢 Jekyll、Github Pages 和 Bootstrap。
  
 ## License
 
