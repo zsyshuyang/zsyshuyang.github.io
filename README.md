@@ -3,7 +3,7 @@
  
 教程链接：[《利用 GitHub Pages 快速搭建个人博客》](http://www.jianshu.com/p/e68fba58f75c) 
 
-### [本人博客 👆](http://zsyshuyang.github.io)
+[本人博客 👆](http://zsyshuyang.github.io)
 
 ## 更新记录
 
