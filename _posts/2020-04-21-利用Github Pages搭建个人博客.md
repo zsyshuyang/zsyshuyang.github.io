@@ -19,7 +19,7 @@ tags:
 
 博客程序刚开始是**Wordpress**，后面转到**Typecho**。
 
-今天突然想到似乎有网友利用Github来搭建网站，便需找教程，开始尝试搭建。
+今天突然想到似乎有网友利用Github来搭建网站，便寻找教程，开始尝试搭建。
 
 过程还是比较顺利，教程地址是：https://github.com/qiubaiying/qiubaiying.github.io
 
