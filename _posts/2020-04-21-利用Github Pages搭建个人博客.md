@@ -4,7 +4,7 @@ title:      利用Github Pages搭建个人博客
 subtitle:   时隔多年，重温建站
 date:       2020-04-21
 author:     ZSY
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-github-cup.jpg
 catalog: true
 tags:
     - 博客
