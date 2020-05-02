@@ -21,7 +21,7 @@ tags:
 
 今天突然想到似乎有网友利用Github来搭建网站，便寻找教程，开始尝试搭建。
 
-过程还是比较顺利，教程地址是：https://github.com/qiubaiying/qiubaiying.github.io
+过程还是比较顺利，教程地址是：[利用 GitHub Pages 快速搭建个人博客](https://www.jianshu.com/p/e68fba58f75c)
 
 # 配置
 
