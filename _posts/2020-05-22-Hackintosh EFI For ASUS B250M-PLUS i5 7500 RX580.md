@@ -13,9 +13,19 @@ tags:
 
 ## 前言
 
-个人自用EFI文件，近期闲鱼收了一张Rx580，参考了大量的文章和其他前辈的EFI，做了整合，在此感谢。
+个人自用EFI文件，近期闲鱼收了一张Rx580，参考了大量的文章和其他前辈的EFI，做了整合和修改，在此感谢。
 
 ## 更新
+
+- 2020-12-15
+ 	- 更新至BIG SUR 11.1
+ 	- 更换引导程序至OC 0.6.4
+
+- 2020-05-25
+	- 键盘、鼠标、网卡蓝牙接口内建
+	- USB接口定制
+	- 删除部分无用文件
+	- 更新Clover 5118
 
 - 2020-05-22
     - 初次上传
@@ -32,12 +42,32 @@ tags:
  - 显卡：蓝宝石 RX580 8G 2304SP
  - 网卡：Bcm94360CS2 + PCIE转接卡
  - 显示器：
-    - 三星26.9英寸2K 144Hz 1800R曲面
+    - 三星26.9英寸2K 144Hz 1800R曲面[已开启HIDPI]
 
 ## Bios设置
+（参考以下常规选项进行设置）
 
-待补充
+### Disable
+- Fast Boot
+- Secure Boot
+- Serial/COM Port
+- Parallel Port
+- VT-d
+- CSM
+- Thunderbolt
+- Intel SGX
+- Intel Platform Trust
+- CFG Lock 
 
+### Enable
+- VT-x
+- Above 4G decoding
+- Hyper-Threading
+- Execute Disable Bit
+- EHCI/XHCI Hand-off
+- OS type: Windows 8.1/10 UEFI Mode
+- DVMT Pre-Allocated(iGPU Memory): 64MB
+- SATA Mode: AHCI
 
 ## 工作状态
 
@@ -51,13 +81,7 @@ tags:
 - 6.App store  
 - 7.睡眠  
 - 8.H.264、HEVC硬件解码、编码、视频处理
-- 9.SATA SSD Trim
- 
-## 工具软件
-
-- [Clover Configurator](https://mackie100projects.altervista.org/download-clover-configurator/)
-- [Hackintool](https://github.com/headkaze/Hackintool)
-- [Kext Utility](http://cvad-mac.narod.ru/index/0-4)
+- 9.SATA SSD Trim（终端输入：sudo trimforce enable）
 
 ## 使用说明
 
@@ -67,8 +91,7 @@ tags:
 
  - [acidanthera](https://github.com/acidanthera)
  - [daliansky](https://github.com/daliansky/)
- - 部分文件来源作者待更新
-
+ - [Mrliu12123](http://bbs.pcbeta.com/viewthread-1851046-1-1.html)
 
 
 

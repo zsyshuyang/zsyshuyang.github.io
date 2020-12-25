@@ -19,6 +19,10 @@ tags:
 
 ## 更新
 
+- 2020-12-15
+    - 更换成OC引导，版本0.6.4
+    - 系统更新至11.1
+
 - 2020-04-21
     - 更新clover v5113
 
@@ -83,18 +87,6 @@ tags:
 - 11.核显加速 
 - 12.H.264硬件解码、编码、视频处理
 - 13.SATA SSD Trim
- 
-### 待测试解决
-
-- 1.双屏显示 待测试
-- 2.开启HWP  待测试
-- 3.Micro SD卡驱动 待解决
-
-## 工具软件
-
-- [Clover Configurator](https://mackie100projects.altervista.org/download-clover-configurator/)
-- [Hackintool](https://github.com/headkaze/Hackintool)
-- [Kext Utility](http://cvad-mac.narod.ru/index/0-4)
 
 ## 使用说明
 
@@ -106,6 +98,7 @@ tags:
  - [daliansky](https://github.com/daliansky/)
  - [liminghuang](https://github.com/liminghuang/)
  - [isNextJuly](https://github.com/isNextJuly/)
+ - [appleserial](https://github.com/appleserial/DeskMini)
 
 
 
