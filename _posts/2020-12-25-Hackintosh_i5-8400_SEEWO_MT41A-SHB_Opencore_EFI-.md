@@ -7,8 +7,9 @@ author:     ZSY
 header-img: img/post-bg-rwd.jpg
 catalog: true
 tags:
-    - 博客
-    - Github Pages
+    - 黑苹果
+    - Hackintosh
+    - 希沃
 ---
 
  希沃平板电脑一体机，OC0.6.4&Big Sur 11.1
